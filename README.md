@@ -1,5 +1,4 @@
 # Network-Intrusion-Detection-System
-# Network Intrusion Detection System
 
 This project implements a Machine Learning based Intrusion Detection System using the NSL-KDD dataset.
 
